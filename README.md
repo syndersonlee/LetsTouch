@@ -10,6 +10,8 @@
 * 프로젝트 기간: 2019.06.01 ~ 2019.11.22
 
 
+## 프로젝트 개요
+[Introduction](https://user-images.githubusercontent.com/30704569/69841377-40d62780-12a2-11ea-93b0-5703730f2c28.png)
 
 
 ## 프로젝트 설명
@@ -17,6 +19,21 @@
 **LetsTouch** 프로젝트를 통해 손의 모양과 손에 가해지는 압력을 측정할 수 있는 장갑형 디바이스를 개발한다. 디바이스에 들어가는 압력 센서를 통해 각 마디에 작용하는 힘을 측정하고, 밴딩 센서를 통해 손 마디가 굽어지는 모양을 인지 그리고 가속도 센서를 이용한 손이 돌아가는 모양을 측정한다. 센서를 통해 가져온 값을 데이터로 변환해서 SDK를 통해 제공한다. 해당 데이터를 통해 3D 손 모양 모델에 색상 및 상태를 입혀 보여준다. 
 
 
+## 프로젝트 기술
+[Technology](https://user-images.githubusercontent.com/30704569/69841401-4df31680-12a2-11ea-8467-9203e02c2eaf.png)
+
+
+## 주요 사용 센서
+[Sensor](https://user-images.githubusercontent.com/30704569/69841410-53506100-12a2-11ea-8fd6-cb0cd4cc25f4.png)
+
+## 시스템 아키텍쳐
+[system](https://user-images.githubusercontent.com/30704569/69841434-6b27e500-12a2-11ea-9ebe-208e4e4f72f7.png)
+
+## 제품 이미지
+[Product](https://user-images.githubusercontent.com/30704569/69841418-5cd9c900-12a2-11ea-8d5c-cda19bc841c5.png)
+
+## SDK 개요
+[SDK](https://user-images.githubusercontent.com/30704569/69841444-7844d400-12a2-11ea-8952-a5dfb2155620.png)
 
 ## Depenedncy
 
@@ -83,8 +100,6 @@ nRF5_SDK_15.3.0
 * LED가 지속될 동안 손을 움크리는 자세를 취해주세요
 * 그 후 LED가 3초 동안 점멸할 때 손을 꽉 쥐어주세요
 * 자유롭게 움직이면 됩니다.
-
-
 
 ## 사용된 도구 
 
